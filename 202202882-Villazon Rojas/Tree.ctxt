@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=data
+comment1.target=Tree(java.lang.Object)
+comment2.params=
+comment2.target=java.util.ArrayList\ getChilds()
+comment3.params=
+comment3.target=java.lang.Object\ getData()
+comment4.params=
+comment4.target=boolean\ esHoja()
+comment5.params=
+comment5.target=void\ imprimir()
+comment6.params=arb
+comment6.target=void\ imprimir(Tree)
+comment7.params=childs
+comment7.target=void\ imprimirNivel(java.util.ArrayList)
+comment8.params=arb
+comment8.target=void\ agregar(Tree)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
